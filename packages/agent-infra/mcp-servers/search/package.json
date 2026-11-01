@@ -32,7 +32,7 @@
     "@agent-infra/search": "workspace:*",
     "@modelcontextprotocol/sdk": "~1.15.1",
     "commander": "^13.1.0",
-    "zod": "^3.23.8",
+    "zod": "^4.6.6",
     "zod-to-json-schema": "^3.23.5"
   },
   "devDependencies": {
