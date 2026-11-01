@@ -27,7 +27,7 @@
     "test:e2e:local": "vitest --config vitest.e2e.config.ts local-browser.e2e.test.ts"
   },
   "dependencies": {
-    "zod": "^3.23.8",
+    "zod": "^4.6.6",
     "openai": "^4.87.3",
     "jsonrepair": "3.12.0",
     "@langchain/core": "0.3.42",
